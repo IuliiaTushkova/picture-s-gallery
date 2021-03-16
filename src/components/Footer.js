@@ -1,4 +1,4 @@
-import React, {useEffect} from 'react';
+import React from 'react';
 
 const Footer = () => {
     return(
@@ -6,7 +6,6 @@ const Footer = () => {
             <p>Made with React and Firebase ! ❤️</p>
         </footer>
     );
-
 }
 
 export default Footer;
